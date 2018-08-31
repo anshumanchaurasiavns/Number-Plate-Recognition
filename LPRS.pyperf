@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>39d06559-aaa0-499f-bdc5-3c399c333309</TargetProject>
+    <FriendlyName>LPRS</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Anshuman\AppData\Local\Temp\LPRS_20180202.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
